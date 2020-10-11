@@ -1,0 +1,2342 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<DropDown /> renders default state with data 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-fujyUd fkUTkB"
+  >
+    <div
+      class="sc-pNWxx fUtqzK"
+    >
+      <div
+        class="MuiFormControl-root sc-dlnjPT jarGyG"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+          data-shrink="false"
+          id="type"
+        >
+          type
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="type select"
+            class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="select"
+            role="button"
+            tabindex="0"
+          >
+            <span>
+              ​
+            </span>
+          </div>
+          <input
+            aria-hidden="true"
+            class="MuiSelect-nativeInput"
+            data-testid="input-type"
+            id="input-type"
+            tabindex="-1"
+            value=""
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSelect-icon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <div
+        class="MuiFormControl-root sc-dlnjPT jarGyG"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+          data-shrink="false"
+          id="brand"
+        >
+          brand
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="brand select"
+            class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="select"
+            role="button"
+            tabindex="0"
+          >
+            <span>
+              ​
+            </span>
+          </div>
+          <input
+            aria-hidden="true"
+            class="MuiSelect-nativeInput"
+            data-testid="input-brand"
+            id="input-brand"
+            tabindex="-1"
+            value=""
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSelect-icon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <div
+        class="MuiFormControl-root sc-dlnjPT jarGyG"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+          data-shrink="false"
+          id="color"
+        >
+          color
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="color select"
+            class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="select"
+            role="button"
+            tabindex="0"
+          >
+            <span>
+              ​
+            </span>
+          </div>
+          <input
+            aria-hidden="true"
+            class="MuiSelect-nativeInput"
+            data-testid="input-color"
+            id="input-color"
+            tabindex="-1"
+            value=""
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSelect-icon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+    </div>
+    <svg
+      class="sc-bdnylx fqkITX"
+      color="gray"
+      fill="gray"
+      height="200px"
+      stroke-width="0"
+      width="200px"
+    >
+      loading.svg
+    </svg>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-justify-xs-center"
+      >
+        <div
+          class="MuiPaper-root MuiCard-root sc-hKFyIo btYSL MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <img
+            alt="vehicle"
+            class="sc-eCApGN epmZth"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%281%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg/520px-Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%281%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg"
+          />
+          <div
+            class="MuiCardContent-root"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              Bugatti Veyron
+            </h2>
+            <div
+              class="sc-iCoHVE kppSMU"
+            >
+              <div
+                class="sc-gKAblj gfBvDb"
+              >
+                <div
+                  class="sc-jSFkmK bRDufd"
+                  color="red"
+                />
+                <div
+                  class="sc-jSFkmK ewvcJx"
+                  color="black"
+                />
+              </div>
+              <svg
+                class="sc-bdnylx qYSIn"
+                color="gray"
+                fill="gray"
+                height="64px"
+                stroke-width="0"
+                width="64px"
+              >
+                car.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiPaper-root MuiCard-root sc-hKFyIo btYSL MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <img
+            alt="vehicle"
+            class="sc-eCApGN epmZth"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/All_Nippon_Airways_Boeing_787-8_Dreamliner_JA801A_OKJ_in_flight.jpg/600px-All_Nippon_Airways_Boeing_787-8_Dreamliner_JA801A_OKJ_in_flight.jpg"
+          />
+          <div
+            class="MuiCardContent-root"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              Boeing 787 Dreamliner
+            </h2>
+            <div
+              class="sc-iCoHVE kppSMU"
+            >
+              <div
+                class="sc-gKAblj gfBvDb"
+              >
+                <div
+                  class="sc-jSFkmK bRDufd"
+                  color="red"
+                />
+                <div
+                  class="sc-jSFkmK hFocFh"
+                  color="white"
+                />
+                <div
+                  class="sc-jSFkmK ewvcJx"
+                  color="black"
+                />
+                <div
+                  class="sc-jSFkmK dxZaZZ"
+                  color="green"
+                />
+              </div>
+              <svg
+                class="sc-bdnylx qYSIn"
+                color="gray"
+                fill="gray"
+                height="64px"
+                stroke-width="0"
+                width="64px"
+              >
+                plane.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiPaper-root MuiCard-root sc-hKFyIo btYSL MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <img
+            alt="vehicle"
+            class="sc-eCApGN epmZth"
+            src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/UP_4466_Neil916.JPG/600px-UP_4466_Neil916.JPG"
+          />
+          <div
+            class="MuiCardContent-root"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              USRA 0-6-6
+            </h2>
+            <div
+              class="sc-iCoHVE kppSMU"
+            >
+              <div
+                class="sc-gKAblj gfBvDb"
+              >
+                <div
+                  class="sc-jSFkmK gRGyxK"
+                  color="yellow"
+                />
+                <div
+                  class="sc-jSFkmK hFocFh"
+                  color="white"
+                />
+                <div
+                  class="sc-jSFkmK ewvcJx"
+                  color="black"
+                />
+              </div>
+              <svg
+                class="sc-bdnylx qYSIn"
+                color="gray"
+                fill="gray"
+                height="64px"
+                stroke-width="0"
+                width="64px"
+              >
+                train.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiPaper-root MuiCard-root sc-hKFyIo btYSL MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <img
+            alt="vehicle"
+            class="sc-eCApGN epmZth"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BOAC_C-4_Argonaut_Heathrow_1954.jpg/600px-BOAC_C-4_Argonaut_Heathrow_1954.jpg"
+          />
+          <div
+            class="MuiCardContent-root"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              Canadair North Star
+            </h2>
+            <div
+              class="sc-iCoHVE kppSMU"
+            >
+              <div
+                class="sc-gKAblj gfBvDb"
+              >
+                <div
+                  class="sc-jSFkmK bRDufd"
+                  color="red"
+                />
+                <div
+                  class="sc-jSFkmK bQlUrw"
+                  color="blue"
+                />
+                <div
+                  class="sc-jSFkmK gRGyxK"
+                  color="yellow"
+                />
+                <div
+                  class="sc-jSFkmK dxZaZZ"
+                  color="green"
+                />
+              </div>
+              <svg
+                class="sc-bdnylx qYSIn"
+                color="gray"
+                fill="gray"
+                height="64px"
+                stroke-width="0"
+                width="64px"
+              >
+                plane.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiPaper-root MuiCard-root sc-hKFyIo btYSL MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <img
+            alt="vehicle"
+            class="sc-eCApGN epmZth"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/A400M-1969.jpg/600px-A400M-1969.jpg"
+          />
+          <div
+            class="MuiCardContent-root"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              Airbus A400M Atlas
+            </h2>
+            <div
+              class="sc-iCoHVE kppSMU"
+            >
+              <div
+                class="sc-gKAblj gfBvDb"
+              >
+                <div
+                  class="sc-jSFkmK bRDufd"
+                  color="red"
+                />
+                <div
+                  class="sc-jSFkmK hFocFh"
+                  color="white"
+                />
+              </div>
+              <svg
+                class="sc-bdnylx qYSIn"
+                color="gray"
+                fill="gray"
+                height="64px"
+                stroke-width="0"
+                width="64px"
+              >
+                plane.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiPaper-root MuiCard-root sc-hKFyIo btYSL MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <img
+            alt="vehicle"
+            class="sc-eCApGN epmZth"
+            src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Bloch_MB_131_San_Diego_Air_%26_Space_Museum_3.jpg"
+          />
+          <div
+            class="MuiCardContent-root"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              Bloch MB.131
+            </h2>
+            <div
+              class="sc-iCoHVE kppSMU"
+            >
+              <div
+                class="sc-gKAblj gfBvDb"
+              >
+                <div
+                  class="sc-jSFkmK gRGyxK"
+                  color="yellow"
+                />
+                <div
+                  class="sc-jSFkmK bQlUrw"
+                  color="blue"
+                />
+                <div
+                  class="sc-jSFkmK jZBWEA"
+                  color="brown"
+                />
+              </div>
+              <svg
+                class="sc-bdnylx qYSIn"
+                color="gray"
+                fill="gray"
+                height="64px"
+                stroke-width="0"
+                width="64px"
+              >
+                plane.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiPaper-root MuiCard-root sc-hKFyIo btYSL MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <img
+            alt="vehicle"
+            class="sc-eCApGN epmZth"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/CFR_Steam_locomotive.jpg/600px-CFR_Steam_locomotive.jpg"
+          />
+          <div
+            class="MuiCardContent-root"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              Prairie 2-6-2
+            </h2>
+            <div
+              class="sc-iCoHVE kppSMU"
+            >
+              <div
+                class="sc-gKAblj gfBvDb"
+              >
+                <div
+                  class="sc-jSFkmK bRDufd"
+                  color="red"
+                />
+                <div
+                  class="sc-jSFkmK hFocFh"
+                  color="white"
+                />
+                <div
+                  class="sc-jSFkmK ulMMf"
+                  color="grey"
+                />
+              </div>
+              <svg
+                class="sc-bdnylx qYSIn"
+                color="gray"
+                fill="gray"
+                height="64px"
+                stroke-width="0"
+                width="64px"
+              >
+                train.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiPaper-root MuiCard-root sc-hKFyIo btYSL MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <img
+            alt="vehicle"
+            class="sc-eCApGN epmZth"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/EMD_GP40_B%26M_339_Wells_Maine.jpg/600px-EMD_GP40_B%26M_339_Wells_Maine.jpg"
+          />
+          <div
+            class="MuiCardContent-root"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              EMD GP40
+            </h2>
+            <div
+              class="sc-iCoHVE kppSMU"
+            >
+              <div
+                class="sc-gKAblj gfBvDb"
+              >
+                <div
+                  class="sc-jSFkmK ewvcJx"
+                  color="black"
+                />
+                <div
+                  class="sc-jSFkmK ulMMf"
+                  color="grey"
+                />
+                <div
+                  class="sc-jSFkmK hFocFh"
+                  color="white"
+                />
+              </div>
+              <svg
+                class="sc-bdnylx qYSIn"
+                color="gray"
+                fill="gray"
+                height="64px"
+                stroke-width="0"
+                width="64px"
+              >
+                train.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiPaper-root MuiCard-root sc-hKFyIo btYSL MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <img
+            alt="vehicle"
+            class="sc-eCApGN epmZth"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/440woodcut.jpg/600px-440woodcut.jpg"
+          />
+          <div
+            class="MuiCardContent-root"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              Amer 4-4-0
+            </h2>
+            <div
+              class="sc-iCoHVE kppSMU"
+            >
+              <div
+                class="sc-gKAblj gfBvDb"
+              >
+                <div
+                  class="sc-jSFkmK bRDufd"
+                  color="red"
+                />
+                <div
+                  class="sc-jSFkmK ewvcJx"
+                  color="black"
+                />
+              </div>
+              <svg
+                class="sc-bdnylx qYSIn"
+                color="gray"
+                fill="gray"
+                height="64px"
+                stroke-width="0"
+                width="64px"
+              >
+                train.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiPaper-root MuiCard-root sc-hKFyIo btYSL MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <img
+            alt="vehicle"
+            class="sc-eCApGN epmZth"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/F40_Ferrari_20090509.jpg/1920px-F40_Ferrari_20090509.jpg"
+          />
+          <div
+            class="MuiCardContent-root"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              Ferrari F40
+            </h2>
+            <div
+              class="sc-iCoHVE kppSMU"
+            >
+              <div
+                class="sc-gKAblj gfBvDb"
+              >
+                <div
+                  class="sc-jSFkmK bRDufd"
+                  color="red"
+                />
+                <div
+                  class="sc-jSFkmK gRGyxK"
+                  color="yellow"
+                />
+              </div>
+              <svg
+                class="sc-bdnylx qYSIn"
+                color="gray"
+                fill="gray"
+                height="64px"
+                stroke-width="0"
+                width="64px"
+              >
+                car.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiPaper-root MuiCard-root sc-hKFyIo btYSL MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <img
+            alt="vehicle"
+            class="sc-eCApGN epmZth"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2014-03-04_Geneva_Motor_Show_1379.JPG/440px-2014-03-04_Geneva_Motor_Show_1379.JPG"
+          />
+          <div
+            class="MuiCardContent-root"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              Lamborghini Huracán
+            </h2>
+            <div
+              class="sc-iCoHVE kppSMU"
+            >
+              <div
+                class="sc-gKAblj gfBvDb"
+              >
+                <div
+                  class="sc-jSFkmK ewvcJx"
+                  color="black"
+                />
+                <div
+                  class="sc-jSFkmK hFocFh"
+                  color="white"
+                />
+              </div>
+              <svg
+                class="sc-bdnylx qYSIn"
+                color="gray"
+                fill="gray"
+                height="64px"
+                stroke-width="0"
+                width="64px"
+              >
+                car.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiPaper-root MuiCard-root sc-hKFyIo btYSL MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <img
+            alt="vehicle"
+            class="sc-eCApGN epmZth"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Porsche_Carrera_GT_-_Goodwood_Breakfast_Club_%28July_2008%29.jpg/440px-Porsche_Carrera_GT_-_Goodwood_Breakfast_Club_%28July_2008%29.jpg"
+          />
+          <div
+            class="MuiCardContent-root"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              Porsche Carrera GT
+            </h2>
+            <div
+              class="sc-iCoHVE kppSMU"
+            >
+              <div
+                class="sc-gKAblj gfBvDb"
+              >
+                <div
+                  class="sc-jSFkmK dxZaZZ"
+                  color="green"
+                />
+                <div
+                  class="sc-jSFkmK gRGyxK"
+                  color="yellow"
+                />
+              </div>
+              <svg
+                class="sc-bdnylx qYSIn"
+                color="gray"
+                fill="gray"
+                height="64px"
+                stroke-width="0"
+                width="64px"
+              >
+                car.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`<DropDown /> renders error message 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-fujyUd fkUTkB"
+  >
+    <div
+      class="sc-pNWxx fUtqzK"
+    />
+    <svg
+      class="sc-bdnylx fqkITX"
+      color="gray"
+      fill="gray"
+      height="200px"
+      stroke-width="0"
+      width="200px"
+    >
+      loading.svg
+    </svg>
+    <div
+      class="sc-gtssRu laMDNY"
+    >
+      <svg
+        class="sc-bdnylx fqkITX"
+        color="gray"
+        fill="gray"
+        height="200px"
+        stroke-width="0"
+        width="200px"
+      >
+        404.svg
+      </svg>
+      <span>
+        error
+      </span>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-justify-xs-center"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`<DropDown /> renders loading state 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-fujyUd fkUTkB"
+  >
+    <div
+      class="sc-pNWxx fUtqzK"
+    />
+    <svg
+      class="sc-bdnylx fqkITX"
+      color="gray"
+      fill="gray"
+      height="200px"
+      stroke-width="0"
+      width="200px"
+    >
+      loading.svg
+    </svg>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-justify-xs-center"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`<DropDown /> renders state after cleaning the filters 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-fujyUd fkUTkB"
+  >
+    <div
+      class="sc-pNWxx fUtqzK"
+    >
+      <div
+        class="MuiFormControl-root sc-dlnjPT jarGyG"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+          data-shrink="true"
+          id="type"
+        >
+          type
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="type select"
+            class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="select"
+            role="button"
+            tabindex="0"
+          >
+            car
+          </div>
+          <input
+            aria-hidden="true"
+            class="MuiSelect-nativeInput"
+            data-testid="input-type"
+            id="input-type"
+            tabindex="-1"
+            value="car"
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSelect-icon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <div
+        class="MuiFormControl-root sc-dlnjPT jarGyG"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+          data-shrink="false"
+          id="brand"
+        >
+          brand
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="brand select"
+            class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="select"
+            role="button"
+            tabindex="0"
+          >
+            <span>
+              ​
+            </span>
+          </div>
+          <input
+            aria-hidden="true"
+            class="MuiSelect-nativeInput"
+            data-testid="input-brand"
+            id="input-brand"
+            tabindex="-1"
+            value=""
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSelect-icon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <div
+        class="MuiFormControl-root sc-dlnjPT jarGyG"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+          data-shrink="true"
+          id="color"
+        >
+          color
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="color select"
+            class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="select"
+            role="button"
+            tabindex="0"
+          >
+            red
+          </div>
+          <input
+            aria-hidden="true"
+            class="MuiSelect-nativeInput"
+            data-testid="input-color"
+            id="input-color"
+            tabindex="-1"
+            value="red"
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSelect-icon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-text sc-jrsJCI drMVqo"
+        data-testid="button-clear"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label"
+        >
+          Clear filters
+        </span>
+      </button>
+    </div>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-justify-xs-center"
+      >
+        <div
+          class="MuiPaper-root MuiCard-root sc-hKFyIo btYSL MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <img
+            alt="vehicle"
+            class="sc-eCApGN epmZth"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%281%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg/520px-Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%281%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg"
+          />
+          <div
+            class="MuiCardContent-root"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              Bugatti Veyron
+            </h2>
+            <div
+              class="sc-iCoHVE kppSMU"
+            >
+              <div
+                class="sc-gKAblj gfBvDb"
+              >
+                <div
+                  class="sc-jSFkmK bRDufd"
+                  color="red"
+                />
+                <div
+                  class="sc-jSFkmK ewvcJx"
+                  color="black"
+                />
+              </div>
+              <svg
+                class="sc-bdnylx qYSIn"
+                color="gray"
+                fill="gray"
+                height="64px"
+                stroke-width="0"
+                width="64px"
+              >
+                car.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiPaper-root MuiCard-root sc-hKFyIo btYSL MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <img
+            alt="vehicle"
+            class="sc-eCApGN epmZth"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/F40_Ferrari_20090509.jpg/1920px-F40_Ferrari_20090509.jpg"
+          />
+          <div
+            class="MuiCardContent-root"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              Ferrari F40
+            </h2>
+            <div
+              class="sc-iCoHVE kppSMU"
+            >
+              <div
+                class="sc-gKAblj gfBvDb"
+              >
+                <div
+                  class="sc-jSFkmK bRDufd"
+                  color="red"
+                />
+                <div
+                  class="sc-jSFkmK gRGyxK"
+                  color="yellow"
+                />
+              </div>
+              <svg
+                class="sc-bdnylx qYSIn"
+                color="gray"
+                fill="gray"
+                height="64px"
+                stroke-width="0"
+                width="64px"
+              >
+                car.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`<DropDown /> renders state after cleaning up all filtering by selecting default value on dropdown 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-fujyUd fkUTkB"
+  >
+    <div
+      class="sc-pNWxx fUtqzK"
+    >
+      <div
+        class="MuiFormControl-root sc-dlnjPT jarGyG"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+          data-shrink="false"
+          id="type"
+        >
+          type
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="type select"
+            class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="select"
+            role="button"
+            tabindex="0"
+          >
+            <span>
+              ​
+            </span>
+          </div>
+          <input
+            aria-hidden="true"
+            class="MuiSelect-nativeInput"
+            data-testid="input-type"
+            id="input-type"
+            tabindex="-1"
+            value=""
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSelect-icon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <div
+        class="MuiFormControl-root sc-dlnjPT jarGyG"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+          data-shrink="false"
+          id="brand"
+        >
+          brand
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="brand select"
+            class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="select"
+            role="button"
+            tabindex="0"
+          >
+            <span>
+              ​
+            </span>
+          </div>
+          <input
+            aria-hidden="true"
+            class="MuiSelect-nativeInput"
+            data-testid="input-brand"
+            id="input-brand"
+            tabindex="-1"
+            value=""
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSelect-icon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <div
+        class="MuiFormControl-root sc-dlnjPT jarGyG"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+          data-shrink="false"
+          id="color"
+        >
+          color
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="color select"
+            class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="select"
+            role="button"
+            tabindex="0"
+          >
+            <span>
+              ​
+            </span>
+          </div>
+          <input
+            aria-hidden="true"
+            class="MuiSelect-nativeInput"
+            data-testid="input-color"
+            id="input-color"
+            tabindex="-1"
+            value=""
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSelect-icon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+    </div>
+    <svg
+      class="sc-bdnylx fqkITX"
+      color="gray"
+      fill="gray"
+      height="200px"
+      stroke-width="0"
+      width="200px"
+    >
+      loading.svg
+    </svg>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-justify-xs-center"
+      >
+        <div
+          class="MuiPaper-root MuiCard-root sc-hKFyIo btYSL MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <img
+            alt="vehicle"
+            class="sc-eCApGN epmZth"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%281%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg/520px-Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%281%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg"
+          />
+          <div
+            class="MuiCardContent-root"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              Bugatti Veyron
+            </h2>
+            <div
+              class="sc-iCoHVE kppSMU"
+            >
+              <div
+                class="sc-gKAblj gfBvDb"
+              >
+                <div
+                  class="sc-jSFkmK bRDufd"
+                  color="red"
+                />
+                <div
+                  class="sc-jSFkmK ewvcJx"
+                  color="black"
+                />
+              </div>
+              <svg
+                class="sc-bdnylx qYSIn"
+                color="gray"
+                fill="gray"
+                height="64px"
+                stroke-width="0"
+                width="64px"
+              >
+                car.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiPaper-root MuiCard-root sc-hKFyIo btYSL MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <img
+            alt="vehicle"
+            class="sc-eCApGN epmZth"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/All_Nippon_Airways_Boeing_787-8_Dreamliner_JA801A_OKJ_in_flight.jpg/600px-All_Nippon_Airways_Boeing_787-8_Dreamliner_JA801A_OKJ_in_flight.jpg"
+          />
+          <div
+            class="MuiCardContent-root"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              Boeing 787 Dreamliner
+            </h2>
+            <div
+              class="sc-iCoHVE kppSMU"
+            >
+              <div
+                class="sc-gKAblj gfBvDb"
+              >
+                <div
+                  class="sc-jSFkmK bRDufd"
+                  color="red"
+                />
+                <div
+                  class="sc-jSFkmK hFocFh"
+                  color="white"
+                />
+                <div
+                  class="sc-jSFkmK ewvcJx"
+                  color="black"
+                />
+                <div
+                  class="sc-jSFkmK dxZaZZ"
+                  color="green"
+                />
+              </div>
+              <svg
+                class="sc-bdnylx qYSIn"
+                color="gray"
+                fill="gray"
+                height="64px"
+                stroke-width="0"
+                width="64px"
+              >
+                plane.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiPaper-root MuiCard-root sc-hKFyIo btYSL MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <img
+            alt="vehicle"
+            class="sc-eCApGN epmZth"
+            src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/UP_4466_Neil916.JPG/600px-UP_4466_Neil916.JPG"
+          />
+          <div
+            class="MuiCardContent-root"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              USRA 0-6-6
+            </h2>
+            <div
+              class="sc-iCoHVE kppSMU"
+            >
+              <div
+                class="sc-gKAblj gfBvDb"
+              >
+                <div
+                  class="sc-jSFkmK gRGyxK"
+                  color="yellow"
+                />
+                <div
+                  class="sc-jSFkmK hFocFh"
+                  color="white"
+                />
+                <div
+                  class="sc-jSFkmK ewvcJx"
+                  color="black"
+                />
+              </div>
+              <svg
+                class="sc-bdnylx qYSIn"
+                color="gray"
+                fill="gray"
+                height="64px"
+                stroke-width="0"
+                width="64px"
+              >
+                train.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiPaper-root MuiCard-root sc-hKFyIo btYSL MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <img
+            alt="vehicle"
+            class="sc-eCApGN epmZth"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BOAC_C-4_Argonaut_Heathrow_1954.jpg/600px-BOAC_C-4_Argonaut_Heathrow_1954.jpg"
+          />
+          <div
+            class="MuiCardContent-root"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              Canadair North Star
+            </h2>
+            <div
+              class="sc-iCoHVE kppSMU"
+            >
+              <div
+                class="sc-gKAblj gfBvDb"
+              >
+                <div
+                  class="sc-jSFkmK bRDufd"
+                  color="red"
+                />
+                <div
+                  class="sc-jSFkmK bQlUrw"
+                  color="blue"
+                />
+                <div
+                  class="sc-jSFkmK gRGyxK"
+                  color="yellow"
+                />
+                <div
+                  class="sc-jSFkmK dxZaZZ"
+                  color="green"
+                />
+              </div>
+              <svg
+                class="sc-bdnylx qYSIn"
+                color="gray"
+                fill="gray"
+                height="64px"
+                stroke-width="0"
+                width="64px"
+              >
+                plane.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiPaper-root MuiCard-root sc-hKFyIo btYSL MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <img
+            alt="vehicle"
+            class="sc-eCApGN epmZth"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/A400M-1969.jpg/600px-A400M-1969.jpg"
+          />
+          <div
+            class="MuiCardContent-root"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              Airbus A400M Atlas
+            </h2>
+            <div
+              class="sc-iCoHVE kppSMU"
+            >
+              <div
+                class="sc-gKAblj gfBvDb"
+              >
+                <div
+                  class="sc-jSFkmK bRDufd"
+                  color="red"
+                />
+                <div
+                  class="sc-jSFkmK hFocFh"
+                  color="white"
+                />
+              </div>
+              <svg
+                class="sc-bdnylx qYSIn"
+                color="gray"
+                fill="gray"
+                height="64px"
+                stroke-width="0"
+                width="64px"
+              >
+                plane.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiPaper-root MuiCard-root sc-hKFyIo btYSL MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <img
+            alt="vehicle"
+            class="sc-eCApGN epmZth"
+            src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Bloch_MB_131_San_Diego_Air_%26_Space_Museum_3.jpg"
+          />
+          <div
+            class="MuiCardContent-root"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              Bloch MB.131
+            </h2>
+            <div
+              class="sc-iCoHVE kppSMU"
+            >
+              <div
+                class="sc-gKAblj gfBvDb"
+              >
+                <div
+                  class="sc-jSFkmK gRGyxK"
+                  color="yellow"
+                />
+                <div
+                  class="sc-jSFkmK bQlUrw"
+                  color="blue"
+                />
+                <div
+                  class="sc-jSFkmK jZBWEA"
+                  color="brown"
+                />
+              </div>
+              <svg
+                class="sc-bdnylx qYSIn"
+                color="gray"
+                fill="gray"
+                height="64px"
+                stroke-width="0"
+                width="64px"
+              >
+                plane.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiPaper-root MuiCard-root sc-hKFyIo btYSL MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <img
+            alt="vehicle"
+            class="sc-eCApGN epmZth"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/CFR_Steam_locomotive.jpg/600px-CFR_Steam_locomotive.jpg"
+          />
+          <div
+            class="MuiCardContent-root"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              Prairie 2-6-2
+            </h2>
+            <div
+              class="sc-iCoHVE kppSMU"
+            >
+              <div
+                class="sc-gKAblj gfBvDb"
+              >
+                <div
+                  class="sc-jSFkmK bRDufd"
+                  color="red"
+                />
+                <div
+                  class="sc-jSFkmK hFocFh"
+                  color="white"
+                />
+                <div
+                  class="sc-jSFkmK ulMMf"
+                  color="grey"
+                />
+              </div>
+              <svg
+                class="sc-bdnylx qYSIn"
+                color="gray"
+                fill="gray"
+                height="64px"
+                stroke-width="0"
+                width="64px"
+              >
+                train.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiPaper-root MuiCard-root sc-hKFyIo btYSL MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <img
+            alt="vehicle"
+            class="sc-eCApGN epmZth"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/EMD_GP40_B%26M_339_Wells_Maine.jpg/600px-EMD_GP40_B%26M_339_Wells_Maine.jpg"
+          />
+          <div
+            class="MuiCardContent-root"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              EMD GP40
+            </h2>
+            <div
+              class="sc-iCoHVE kppSMU"
+            >
+              <div
+                class="sc-gKAblj gfBvDb"
+              >
+                <div
+                  class="sc-jSFkmK ewvcJx"
+                  color="black"
+                />
+                <div
+                  class="sc-jSFkmK ulMMf"
+                  color="grey"
+                />
+                <div
+                  class="sc-jSFkmK hFocFh"
+                  color="white"
+                />
+              </div>
+              <svg
+                class="sc-bdnylx qYSIn"
+                color="gray"
+                fill="gray"
+                height="64px"
+                stroke-width="0"
+                width="64px"
+              >
+                train.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiPaper-root MuiCard-root sc-hKFyIo btYSL MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <img
+            alt="vehicle"
+            class="sc-eCApGN epmZth"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/440woodcut.jpg/600px-440woodcut.jpg"
+          />
+          <div
+            class="MuiCardContent-root"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              Amer 4-4-0
+            </h2>
+            <div
+              class="sc-iCoHVE kppSMU"
+            >
+              <div
+                class="sc-gKAblj gfBvDb"
+              >
+                <div
+                  class="sc-jSFkmK bRDufd"
+                  color="red"
+                />
+                <div
+                  class="sc-jSFkmK ewvcJx"
+                  color="black"
+                />
+              </div>
+              <svg
+                class="sc-bdnylx qYSIn"
+                color="gray"
+                fill="gray"
+                height="64px"
+                stroke-width="0"
+                width="64px"
+              >
+                train.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiPaper-root MuiCard-root sc-hKFyIo btYSL MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <img
+            alt="vehicle"
+            class="sc-eCApGN epmZth"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/F40_Ferrari_20090509.jpg/1920px-F40_Ferrari_20090509.jpg"
+          />
+          <div
+            class="MuiCardContent-root"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              Ferrari F40
+            </h2>
+            <div
+              class="sc-iCoHVE kppSMU"
+            >
+              <div
+                class="sc-gKAblj gfBvDb"
+              >
+                <div
+                  class="sc-jSFkmK bRDufd"
+                  color="red"
+                />
+                <div
+                  class="sc-jSFkmK gRGyxK"
+                  color="yellow"
+                />
+              </div>
+              <svg
+                class="sc-bdnylx qYSIn"
+                color="gray"
+                fill="gray"
+                height="64px"
+                stroke-width="0"
+                width="64px"
+              >
+                car.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiPaper-root MuiCard-root sc-hKFyIo btYSL MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <img
+            alt="vehicle"
+            class="sc-eCApGN epmZth"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2014-03-04_Geneva_Motor_Show_1379.JPG/440px-2014-03-04_Geneva_Motor_Show_1379.JPG"
+          />
+          <div
+            class="MuiCardContent-root"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              Lamborghini Huracán
+            </h2>
+            <div
+              class="sc-iCoHVE kppSMU"
+            >
+              <div
+                class="sc-gKAblj gfBvDb"
+              >
+                <div
+                  class="sc-jSFkmK ewvcJx"
+                  color="black"
+                />
+                <div
+                  class="sc-jSFkmK hFocFh"
+                  color="white"
+                />
+              </div>
+              <svg
+                class="sc-bdnylx qYSIn"
+                color="gray"
+                fill="gray"
+                height="64px"
+                stroke-width="0"
+                width="64px"
+              >
+                car.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiPaper-root MuiCard-root sc-hKFyIo btYSL MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <img
+            alt="vehicle"
+            class="sc-eCApGN epmZth"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Porsche_Carrera_GT_-_Goodwood_Breakfast_Club_%28July_2008%29.jpg/440px-Porsche_Carrera_GT_-_Goodwood_Breakfast_Club_%28July_2008%29.jpg"
+          />
+          <div
+            class="MuiCardContent-root"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              Porsche Carrera GT
+            </h2>
+            <div
+              class="sc-iCoHVE kppSMU"
+            >
+              <div
+                class="sc-gKAblj gfBvDb"
+              >
+                <div
+                  class="sc-jSFkmK dxZaZZ"
+                  color="green"
+                />
+                <div
+                  class="sc-jSFkmK gRGyxK"
+                  color="yellow"
+                />
+              </div>
+              <svg
+                class="sc-bdnylx qYSIn"
+                color="gray"
+                fill="gray"
+                height="64px"
+                stroke-width="0"
+                width="64px"
+              >
+                car.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`<DropDown /> renders state after filtering by color & brand 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-fujyUd fkUTkB"
+  >
+    <div
+      class="sc-pNWxx fUtqzK"
+    >
+      <div
+        class="MuiFormControl-root sc-dlnjPT jarGyG"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+          data-shrink="false"
+          id="type"
+        >
+          type
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="type select"
+            class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="select"
+            role="button"
+            tabindex="0"
+          >
+            <span>
+              ​
+            </span>
+          </div>
+          <input
+            aria-hidden="true"
+            class="MuiSelect-nativeInput"
+            data-testid="input-type"
+            id="input-type"
+            tabindex="-1"
+            value=""
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSelect-icon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <div
+        class="MuiFormControl-root sc-dlnjPT jarGyG"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+          data-shrink="true"
+          id="brand"
+        >
+          brand
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="brand select"
+            class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="select"
+            role="button"
+            tabindex="0"
+          >
+            EMD GP40
+          </div>
+          <input
+            aria-hidden="true"
+            class="MuiSelect-nativeInput"
+            data-testid="input-brand"
+            id="input-brand"
+            tabindex="-1"
+            value="EMD GP40"
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSelect-icon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <div
+        class="MuiFormControl-root sc-dlnjPT jarGyG"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+          data-shrink="true"
+          id="color"
+        >
+          color
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="color select"
+            class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="select"
+            role="button"
+            tabindex="0"
+          >
+            black
+          </div>
+          <input
+            aria-hidden="true"
+            class="MuiSelect-nativeInput"
+            data-testid="input-color"
+            id="input-color"
+            tabindex="-1"
+            value="black"
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSelect-icon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+    </div>
+    <svg
+      class="sc-bdnylx fqkITX"
+      color="gray"
+      fill="gray"
+      height="200px"
+      stroke-width="0"
+      width="200px"
+    >
+      loading.svg
+    </svg>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-justify-xs-center"
+      >
+        <div
+          class="MuiPaper-root MuiCard-root sc-hKFyIo btYSL MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <img
+            alt="vehicle"
+            class="sc-eCApGN epmZth"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/EMD_GP40_B%26M_339_Wells_Maine.jpg/600px-EMD_GP40_B%26M_339_Wells_Maine.jpg"
+          />
+          <div
+            class="MuiCardContent-root"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              EMD GP40
+            </h2>
+            <div
+              class="sc-iCoHVE kppSMU"
+            >
+              <div
+                class="sc-gKAblj gfBvDb"
+              >
+                <div
+                  class="sc-jSFkmK ewvcJx"
+                  color="black"
+                />
+                <div
+                  class="sc-jSFkmK ulMMf"
+                  color="grey"
+                />
+                <div
+                  class="sc-jSFkmK hFocFh"
+                  color="white"
+                />
+              </div>
+              <svg
+                class="sc-bdnylx qYSIn"
+                color="gray"
+                fill="gray"
+                height="64px"
+                stroke-width="0"
+                width="64px"
+              >
+                train.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`<DropDown /> renders state after filtering by type train 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-fujyUd fkUTkB"
+  >
+    <div
+      class="sc-pNWxx fUtqzK"
+    >
+      <div
+        class="MuiFormControl-root sc-dlnjPT jarGyG"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled"
+          data-shrink="true"
+          id="type"
+        >
+          type
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="type select"
+            class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="select"
+            role="button"
+            tabindex="0"
+          >
+            train
+          </div>
+          <input
+            aria-hidden="true"
+            class="MuiSelect-nativeInput"
+            data-testid="input-type"
+            id="input-type"
+            tabindex="-1"
+            value="train"
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSelect-icon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <div
+        class="MuiFormControl-root sc-dlnjPT jarGyG"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+          data-shrink="false"
+          id="brand"
+        >
+          brand
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="brand select"
+            class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="select"
+            role="button"
+            tabindex="0"
+          >
+            <span>
+              ​
+            </span>
+          </div>
+          <input
+            aria-hidden="true"
+            class="MuiSelect-nativeInput"
+            data-testid="input-brand"
+            id="input-brand"
+            tabindex="-1"
+            value=""
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSelect-icon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+      <div
+        class="MuiFormControl-root sc-dlnjPT jarGyG"
+      >
+        <label
+          class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+          data-shrink="false"
+          id="color"
+        >
+          color
+        </label>
+        <div
+          class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+        >
+          <div
+            aria-haspopup="listbox"
+            aria-labelledby="color select"
+            class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+            id="select"
+            role="button"
+            tabindex="0"
+          >
+            <span>
+              ​
+            </span>
+          </div>
+          <input
+            aria-hidden="true"
+            class="MuiSelect-nativeInput"
+            data-testid="input-color"
+            id="input-color"
+            tabindex="-1"
+            value=""
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSelect-icon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+      </div>
+    </div>
+    <svg
+      class="sc-bdnylx fqkITX"
+      color="gray"
+      fill="gray"
+      height="200px"
+      stroke-width="0"
+      width="200px"
+    >
+      loading.svg
+    </svg>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-justify-xs-center"
+      >
+        <div
+          class="MuiPaper-root MuiCard-root sc-hKFyIo btYSL MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <img
+            alt="vehicle"
+            class="sc-eCApGN epmZth"
+            src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/UP_4466_Neil916.JPG/600px-UP_4466_Neil916.JPG"
+          />
+          <div
+            class="MuiCardContent-root"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              USRA 0-6-6
+            </h2>
+            <div
+              class="sc-iCoHVE kppSMU"
+            >
+              <div
+                class="sc-gKAblj gfBvDb"
+              >
+                <div
+                  class="sc-jSFkmK gRGyxK"
+                  color="yellow"
+                />
+                <div
+                  class="sc-jSFkmK hFocFh"
+                  color="white"
+                />
+                <div
+                  class="sc-jSFkmK ewvcJx"
+                  color="black"
+                />
+              </div>
+              <svg
+                class="sc-bdnylx qYSIn"
+                color="gray"
+                fill="gray"
+                height="64px"
+                stroke-width="0"
+                width="64px"
+              >
+                train.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiPaper-root MuiCard-root sc-hKFyIo btYSL MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <img
+            alt="vehicle"
+            class="sc-eCApGN epmZth"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/CFR_Steam_locomotive.jpg/600px-CFR_Steam_locomotive.jpg"
+          />
+          <div
+            class="MuiCardContent-root"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              Prairie 2-6-2
+            </h2>
+            <div
+              class="sc-iCoHVE kppSMU"
+            >
+              <div
+                class="sc-gKAblj gfBvDb"
+              >
+                <div
+                  class="sc-jSFkmK bRDufd"
+                  color="red"
+                />
+                <div
+                  class="sc-jSFkmK hFocFh"
+                  color="white"
+                />
+                <div
+                  class="sc-jSFkmK ulMMf"
+                  color="grey"
+                />
+              </div>
+              <svg
+                class="sc-bdnylx qYSIn"
+                color="gray"
+                fill="gray"
+                height="64px"
+                stroke-width="0"
+                width="64px"
+              >
+                train.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiPaper-root MuiCard-root sc-hKFyIo btYSL MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <img
+            alt="vehicle"
+            class="sc-eCApGN epmZth"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/EMD_GP40_B%26M_339_Wells_Maine.jpg/600px-EMD_GP40_B%26M_339_Wells_Maine.jpg"
+          />
+          <div
+            class="MuiCardContent-root"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              EMD GP40
+            </h2>
+            <div
+              class="sc-iCoHVE kppSMU"
+            >
+              <div
+                class="sc-gKAblj gfBvDb"
+              >
+                <div
+                  class="sc-jSFkmK ewvcJx"
+                  color="black"
+                />
+                <div
+                  class="sc-jSFkmK ulMMf"
+                  color="grey"
+                />
+                <div
+                  class="sc-jSFkmK hFocFh"
+                  color="white"
+                />
+              </div>
+              <svg
+                class="sc-bdnylx qYSIn"
+                color="gray"
+                fill="gray"
+                height="64px"
+                stroke-width="0"
+                width="64px"
+              >
+                train.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiPaper-root MuiCard-root sc-hKFyIo btYSL MuiPaper-elevation1 MuiPaper-rounded"
+        >
+          <img
+            alt="vehicle"
+            class="sc-eCApGN epmZth"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/440woodcut.jpg/600px-440woodcut.jpg"
+          />
+          <div
+            class="MuiCardContent-root"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom"
+            >
+              Amer 4-4-0
+            </h2>
+            <div
+              class="sc-iCoHVE kppSMU"
+            >
+              <div
+                class="sc-gKAblj gfBvDb"
+              >
+                <div
+                  class="sc-jSFkmK bRDufd"
+                  color="red"
+                />
+                <div
+                  class="sc-jSFkmK ewvcJx"
+                  color="black"
+                />
+              </div>
+              <svg
+                class="sc-bdnylx qYSIn"
+                color="gray"
+                fill="gray"
+                height="64px"
+                stroke-width="0"
+                width="64px"
+              >
+                train.svg
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

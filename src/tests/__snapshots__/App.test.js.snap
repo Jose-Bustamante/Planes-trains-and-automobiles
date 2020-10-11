@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders App with  1`] = `
+<DocumentFragment>
+  <div
+    class="sc-fujyUd fkUTkB"
+  >
+    <div
+      class="sc-pNWxx fUtqzK"
+    />
+    <svg
+      class="sc-bdnylx fqkITX"
+      color="gray"
+      fill="gray"
+      height="200px"
+      stroke-width="0"
+      width="200px"
+    >
+      loading.svg
+    </svg>
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-justify-xs-center"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;

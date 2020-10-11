@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Icon /> renders icon with custom width 1`] = `
+<DocumentFragment>
+  <svg
+    class="sc-bdnylx bmOqsR"
+    color="gray"
+    fill="gray"
+    height="32px"
+    stroke-width="0"
+    width="16px"
+  >
+    car.svg
+  </svg>
+</DocumentFragment>
+`;
+
+exports[`<Icon /> renders icon with default values 1`] = `
+<DocumentFragment>
+  <svg
+    class="sc-bdnylx bmhgoD"
+    color="gray"
+    fill="gray"
+    height="32px"
+    stroke-width="0"
+    width="32px"
+  >
+    car.svg
+  </svg>
+</DocumentFragment>
+`;
